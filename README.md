@@ -24,7 +24,7 @@ Este projeto utiliza **Python** para realizar uma validação completa dos dados
 
 ## 📂 Estrutura do Projeto
 
-📁 Projeto 
+📁 Projeto   
 ├── mock.json   
 ├── get.py  
 
